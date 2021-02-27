@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Liste d'anniversaire de Joshua</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<h1>2021</h1>
+	<div id="carte">
+	<a href="https://www.youtube.com/watch?v=G6qHi8EkMlg"><h1>Liste d'anniversaire 2021 de Joshua</h1></a>
+	<a href="https://shop.shadow.tech/plans"><h2> Un abonnement Shadow boots pour 12 mois </h2></a>
+	<a href="https://www.google.com/shopping/product/13458325326089399626?q=manette+bluetooth+xbox&rlz=1C1SQJL_frFR933FR933&sxsrf=ALeKk01-CbhbjN7bo-2zk3QFWvEqAeJjNw:1613723223290&biw=1163&bih=646&prds=opd:8813715793338078857,prmr:3,pvo:ChUIr_KT9L7AmKj-ARDHmPboibHd12M&sa=X&ved=0ahUKEwiQq57Tw_XuAhWH4YUKHQ-9CWcQlIUHCD0oAQ"><h2>Manette xbox bluetooth </h2></a>
+	<a href="https://store.steampowered.com/app/1172380/STAR_WARS_Jedi_Fallen_Order/"><h2>Star Wars Jedi Fallen Order PC</h2></a>
+	<a href="https://store.steampowered.com/app/6060/Star_Wars_Battlefront_2_Classic_2005/"><h2> Star Wars: Battlefront 2 </h2></a>
+	    <a href="https://www.microsoft.com/fr-fr/p/cable-belkin-31-usb-a-vers-usb-c/8tx4hb7bvlbm"><h2>Cable usb-c </h2></a>
+    <img src="https://wprock.fr/wp-content/themes/wprock-theme/img/emoji/joypixels/512/1f973.png">
+    <audio controls="controls">
+   <source src="anniversaire" type="audio/mp3" />
+</html>
